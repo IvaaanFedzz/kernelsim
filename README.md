@@ -2,6 +2,7 @@
 ---
 
 Un sistema operativo como Windows , MacOS , Linux..
+
 Instalar msys2.org 
 <img width="1717" height="975" alt="image" src="https://github.com/user-attachments/assets/3778a482-7605-4752-8462-492bd84765f0" />
 
