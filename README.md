@@ -20,6 +20,7 @@ mingw32-make --version
 3-COMPILAR
 --
 cd /c/Users/<tu_usuario>/Desktop/kernelsim
+
 mingw32-make
 kernelsim.exe
 
