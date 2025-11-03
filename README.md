@@ -14,8 +14,20 @@ Instalar las herramientas de compilación:
 
 pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-make
 OJO! VERIFICA QUE FUNCIONAN:
+
+
+
+
+
 gcc --version
+
+
+
 mingw32-make --version
+
+
+
+
 
 
 
