@@ -1,5 +1,4 @@
-; Example NSIS script to create a simple installer for kernelsim.exe
-; Usage: makensis example_installer.nsi
+
 Name "KernelSim"
 OutFile "kernelsim_installer.exe"
 InstallDir "$PROGRAMFILES\KernelSim"
